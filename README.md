@@ -21,6 +21,34 @@ This project applied the following frameworks to come up with it;
 The system requires internet access,provision of computers and availability of power to run computer
 # Set Up
 To run this project clone the program from github using the link provided below and with the help of liveserver in the extension,run the program.
-# Contacts
 
+# Contacts
+For  for information you can reach me out through the following links,
+oscarokumu47@gmail.com
+https://github.com/Osca254
+# Live Github Link 
+The link to the project is:
 https://github.com/Osca254/Week_Three_Project/tree/gh-pages
+# License Information
+[MIT] (License)
+
+Copyright (c) 2022 Osca254
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
