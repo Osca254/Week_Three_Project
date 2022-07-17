@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(71, 194, 71);
+    width: max-content;
+    background-image: url("https://packmedia.net/sites/default/files/styles/max_width_770px/public/2021-12/brookside-dairy-interno.jpg?itok=CUYiIyDx");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    height: 100vw;
+    width: 100vw;
+    opacity: 500%;
+}
+a:link{
+    text-decoration-line: none;
+    font-size: xx-large;
+    text-align: center;
+    display: inline-block;
+
+}
+.nav{
+    padding-top: 3%;
+        letter-spacing: 2px; 
+        padding-left: 30%;
+        word-wrap: none;
+        word-spacing: 7%;
+
+}
+.navbaaa{
+    word-wrap: none;
+    word-spacing: 5%;
+}modify
