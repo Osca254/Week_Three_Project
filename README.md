@@ -9,7 +9,7 @@ Oscar Okumu Ofula
 * [Setup](Setup)
 * [Contacts](Contacts)
 * [Dependencies](Dependencies)
-* [license information](License information_)
+* [license_information](License_information_)
 # General info
 This project is an online based system meant to monitor milk production for Brookside dairies.The main reason for the development of this system is that the worker who is me is commited in website cosultation company and this leaves little time to monitor milk production.the mission is if i choose to accept it is automate the proce of getting reports about my farm by writing functions using javascript .The system has also some information about the company,the products they deal with and also the contacts of the company.
 # Technologies Used
