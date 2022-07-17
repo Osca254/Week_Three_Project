@@ -30,8 +30,10 @@ https://github.com/Osca254
 The link to the project is:
 https://github.com/Osca254/Week_Three_Project/tree/gh-pages
 # License Information
-[MIT](lICENSE.md)
+[MIT](lICENSE)
 
+   Copyright (c) 2022 Osca254
+   
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
