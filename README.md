@@ -29,6 +29,7 @@ https://github.com/Osca254
 # Live Github Link 
 The link to the project is:
 https://github.com/Osca254/Week_Three_Project/tree/gh-pages
+https://osca254.github.io/Week_Three_Project/
 # License Information
 [MIT](LICENSE)
 
